@@ -5,10 +5,11 @@
     
 ![example](https://github.com/ydtg1993/laravel-admin-expand-table/blob/master/example.png)
 
-###后台接口注意
-    1.方法POST
-    2.默认传参 p:分页分页当前页数  limit:每页条目数 其他传参自定
-    3.返回json数据结构 
+### 后台接口注意
+
+#####    1.方法POST
+#####    2.默认传参 p:分页分页当前页数  limit:每页条目数 其他传参自定
+#####    3.返回json数据结构 
     
     {
         "data":[                    #数据集
